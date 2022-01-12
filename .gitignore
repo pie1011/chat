@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+
+# old files
+chatOLD.html
+styleOLD.css
+serverOLD.js
+mainOLD.js
+
+# VSCode workspace
+chat.code-workspace
